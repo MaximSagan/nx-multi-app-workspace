@@ -33,6 +33,13 @@
     "ng-app1-e2e": {
       "tags": [],
       "implicitDependencies": ["ng-app1"]
+    },
+    "ng-app2": {
+      "tags": []
+    },
+    "ng-app2-e2e": {
+      "tags": [],
+      "implicitDependencies": ["ng-app2"]
     }
   }
 }
