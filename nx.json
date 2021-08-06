@@ -28,7 +28,8 @@
   },
   "projects": {
     "ng-app1": {
-      "tags": []
+      "tags": [],
+      "implicitDependencies": ["ng-app2"]
     },
     "ng-app1-e2e": {
       "tags": [],
